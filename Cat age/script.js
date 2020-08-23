@@ -18,4 +18,4 @@ function catToHumanCoverter(catAge){
     }
 } 
 
-alert(`your cat age is equal to ${catToHumanCoverter(catAge)}`);
+alert(`your cat age is equal to ${catToHumanConverter(catAge)}`);
